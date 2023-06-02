@@ -2,4 +2,8 @@
 
 **Started building the UI**
 -date:1st June 2023
-![](./img/Screenshot%20(3).png)
+
+**Completed UI (optimized for >768px)**
+-date:2nd June 2023
+![](./img/laptopviewtop.png)
+![](./img/laptopviewbottom.png)
